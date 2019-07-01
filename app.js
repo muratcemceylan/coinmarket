@@ -1,7 +1,7 @@
 const express = require('express');
 const bodyParser = require('body-parser');
 
-const feedRoutes = require('./routes/coins');
+const feedRoutes = require('./routes/api');
 
 const app = express();
 

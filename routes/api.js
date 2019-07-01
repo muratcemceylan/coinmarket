@@ -1,6 +1,6 @@
 const express = require('express');
 
-const CoinController = require('../controllers/coins');
+const CoinController = require('../controllers/api');
 
 const router = express.Router();
 
